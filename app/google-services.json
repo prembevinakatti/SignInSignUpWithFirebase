@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304064317668",
+    "project_id": "signin-signup-using-fire-722d2",
+    "storage_bucket": "signin-signup-using-fire-722d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304064317668:android:b4bf0384022063870ec4f1",
+        "android_client_info": {
+          "package_name": "com.example.signinsignupusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurpss1iWB3hZ9aQQyVYcIS19056Jy-J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
